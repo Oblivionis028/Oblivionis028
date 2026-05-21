@@ -35,7 +35,7 @@
 
 </div>
 
-## 📊 My GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
 <a href="https://github.com/Oblivionis028/github-readme-stats">
@@ -45,7 +45,7 @@
   <img height=200 align="center" src="https://github-readme-stats1-pearl-eta.vercel.app/api/top-langs?username=Oblivionis028&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## 🌟 Featured Project
+<h3 align="center">🌟 Featured Project</h2>
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -57,7 +57,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oblivionis028&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
 
-<h2 align="center">📅 Isometric Commit Calendar</h2>
+<h3 align="center">📅 Isometric Commit Calendar</h2>
 
 <p align="center">
   <img src="/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
