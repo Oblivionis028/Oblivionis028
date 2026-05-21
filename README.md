@@ -35,15 +35,27 @@
 
 </div>
 
-<h3 align="center">📊 My GitHub Stats</h2>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-<a href="https://github.com/Oblivionis028/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/Oblivionis028/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats1-pearl-eta.vercel.app/api/top-langs?username=Oblivionis028&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <a href="https://github.com/Oblivionis028">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs&show_icons=true&theme=transparent&v=20260521" 
+      alt="Yuxuan Luo's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/Oblivionis028">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats1-pearl-eta.vercel.app/api/top-langs/?username=Oblivionis028&layout=compact&langs_count=8&card_width=320&theme=transparent&v=20260521" 
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 <h3 align="center">🌟 Featured Project</h2>
 
