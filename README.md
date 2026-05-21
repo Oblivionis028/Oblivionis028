@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
