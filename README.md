@@ -56,3 +56,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oblivionis028&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
+
+<h2 align="center">📅 Isometric Commit Calendar</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
+</p>
