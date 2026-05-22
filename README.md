@@ -42,7 +42,7 @@
     <img 
       height="200" 
       align="center" 
-      src="https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs&show_icons=true&theme=transparent&v=20260523" 
+      src="https://github-readme-stats1-pearl-eta.vercel.app/api?username=Oblivionis028&hide=contribs,prs&show_icons=true&theme=transparent&v=202605231" 
       alt="Yuxuan Luo's GitHub Stats"
     />
   </a>
@@ -51,7 +51,7 @@
     <img 
       height="200" 
       align="center" 
-      src="https://github-readme-stats1-pearl-eta.vercel.app/api/top-langs/?username=Oblivionis028&layout=compact&langs_count=8&card_width=320&theme=transparent&v=20260523" 
+      src="https://github-readme-stats1-pearl-eta.vercel.app/api/top-langs/?username=Oblivionis028&layout=compact&langs_count=8&card_width=320&theme=transparent&v=202605231" 
       alt="Top Languages"
     />
   </a>
