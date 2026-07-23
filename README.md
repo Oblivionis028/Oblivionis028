@@ -1,4 +1,7 @@
 
+<p align="right">
+  <strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
 <!-- 个性化签名 -->
 <h3 align="center">
