@@ -62,6 +62,7 @@
 |---------|------------|-------------|
 | [YOLO-based Fish Tracking](https://github.com/Oblivionis028/ocellaris-fish-tracking-yolo-bytetrack) | Python + YOLO + Ultralytics + ByteTrack + OpenCV | A computer vision project focused on fish detection, reflection recognition, and multi-object tracking in experimental videos. The project includes dataset construction, CVAT annotation, YOLO model training, validation, and tracking result analysis. |
 | [Collinearity & Ka/Ks Pipeline](https://github.com/Oblivionis028/bioinfo-collinearity-kaks-pipeline) | Python + Bash + DIAMOND + MCScanX + TBtools + gffread | A reusable bioinformatics workflow template for intra-/inter-species collinearity analysis and Ka/Ks estimation. The project includes MCScanX input preparation, protein all-vs-all alignment, target gene collinearity filtering, CDS extraction, and Ka/Ks result interpretation, while excluding real genomic data for privacy. |
+| [Literature Evidence Synthesis](https://github.com/Oblivionis028/literature-evidence-synthesis-skill) | Python + Codex Skill + PDF + Evidence Matrix | A domain-agnostic, page-verified literature review workflow that transforms mixed PDF collections into traceable evidence matrices, design-aware appraisals, and cross-paper synthesis reports. |
 
 ## 
 <!-- GitHub 贡献图 -->
