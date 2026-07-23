@@ -5,7 +5,7 @@
 
 <!-- 个性化签名 -->
 <h3 align="center">
-  🧬 生物技术与生命科学 | 💻 生物信息学与 AI for Biology | 🐟 基于 YOLO 的鱼类跟踪
+  🧬 生物技术与生命科学 | 💻 生物信息学 / AI for Biology | 🐟 基于 YOLO 的鱼类跟踪
 </h3>
 
 
