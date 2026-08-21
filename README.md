@@ -7,9 +7,10 @@
 <h3 align="center">
   🧬 Biotechnology & Life Sciences | 💻 Bioinformatics & AI for Biology | 🐟 YOLO-based Fish Tracking
 </h3>
-<h2 align="center">
+
+<h4 align="center">
 ORCID: 0009-0005-3544-1492
-</h2>
+</h4>
 
 <!-- 技术栈徽章 -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
