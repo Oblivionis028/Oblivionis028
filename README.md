@@ -5,7 +5,7 @@
 
 <!-- 个性化签名 -->
 <h3 align="center">
-  🧬 Biotechnology & Life Sciences | 💻 Bioinformatics & AI for Biology | 🐟 YOLO-based Fish Tracking
+  Biotechnology & Life Sciences | Bioinformatics & AI for Biology | YOLO-based Fish Tracking
 </h3>
 
 <h4 align="center">
