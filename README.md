@@ -39,7 +39,7 @@ ORCID: 0009-0005-3544-1492
 
 </div>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/Oblivionis028">
@@ -61,7 +61,7 @@ ORCID: 0009-0005-3544-1492
   </a>
 </p>
 
-<h3 align="center">🌟 Featured Project</h2>
+<h3 align="center">Featured Project</h2>
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -75,7 +75,7 @@ ORCID: 0009-0005-3544-1492
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oblivionis028&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
 
-<h3 align="center">📅 Isometric Commit Calendar</h2>
+<h3 align="center">Isometric Commit Calendar</h2>
 
 <p align="center">
   <img src="/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
