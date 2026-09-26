@@ -1,4 +1,3 @@
-
 <p align="right">
   <strong>简体中文</strong> · <a href="./README.EN.md">English</a>
 </p>
