@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/-Scientific%20Research-8A2BE2?style=flat-square&logo=googlescholar&logoColor=white" />
 
 </div>
-
-I build bioinformatics workflows and animal behavior analysis tools around practical questions in the life sciences, with an emphasis on reproducibility and verifiable evidence.
+</p>
+My interests center on the application of deep learning and bioinformatics to life science research. I develop computational tools and analysis workflows for processing, analyzing, and modeling biological data.Specific interests include quantitative analysis of animal behavior using object detection and multi-object tracking, as well as sequence data processing, genomic collinearity analysis, and Ka/Ks estimation. I emphasize data quality control, model training and evaluation, and validation of analytical results, with attention to reproducible workflows and maintainable code.
 
 ## Open Source Contributions
 
